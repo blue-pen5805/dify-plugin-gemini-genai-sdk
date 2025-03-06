@@ -33,10 +33,6 @@ from dify_plugin.errors.model import (
 )
 from dify_plugin.interfaces.model.large_language_model import LargeLanguageModel
 
-from .utils import FileCache
-
-file_cache = FileCache()
-
 class GoogleLargeLanguageModel(LargeLanguageModel):
     def _invoke(
         self,
