@@ -1,3 +1,7 @@
+# Deprecated
+
+**Use [dify-plugin-gemini](https://github.com/blue-pen5805/dify-plugin-gemini) instead.**
+
 # Dify Plugin - Gemini / with Google Gen AI SDK
 
 forked from [Official Plugin](https://github.com/langgenius/dify-official-plugins/tree/main/models/gemini)
